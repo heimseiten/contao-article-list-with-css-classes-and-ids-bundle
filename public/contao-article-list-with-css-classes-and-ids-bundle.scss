@@ -1,28 +1,36 @@
-body:not(.dark_mode_off) .tl_listing .tl_left { display: flex;
+body .tl_listing .tl_left { 
+    display: flex;
     .article_id_classes { 
         display: flex; 
         flex-wrap: wrap; 
         flex-grow: 1;
         justify-content: space-between; 
         padding-left: 7px;
+        .classes, .ids { display: flex; flex-wrap: wrap; }
         .ids span {
             color: #edad3b; 
             border: 1px solid #edad3b; 
         }
         span { 
-            color: #bbb; 
-            border: 1px solid #bbb; 
+            color: #666; 
+            border: 1px solid #999; 
             border-radius: 20px; 
             line-height: 1; 
             display: inline-block; 
             font-size: 9px; 
-            padding: 1px 6px; 
+            padding: 2px 6px; 
             margin-top: 3px; 
             margin-left: 7px;
         }
     }
 }
-body .article_id_classes span {
-    color: #666; 
-    border: 1px solid #999; 
+body.dark_mode_bundle:not(.dark_mode_off) .tl_listing .tl_left .article_id_classes {
+    .ids span {
+        color: #edad3b; 
+        border: 1px solid #edad3b; 
+    }
+    span {
+        color: #bbb; 
+        border: 1px solid #bbb;
+    }
 }
