@@ -23,7 +23,8 @@ document.addEventListener( 'DOMContentLoaded', function () {
         'ce_accordionSingle',
         'ce_accordion',
         'ce_text',
-        'content-text' 
+        'content-text',
+        'ivp'
     ]
     if (document.querySelector('.limit_height')) {
         document.querySelectorAll('.limit_height > *').forEach(e => {
