@@ -22,7 +22,8 @@ document.addEventListener( 'DOMContentLoaded', function () {
         'tl_gray',
         'ce_accordionSingle',
         'ce_accordion',
-        'ce_text',
+        'ce_text'
+        'ce_image',
         'content-text',
         'ivp'
     ]
