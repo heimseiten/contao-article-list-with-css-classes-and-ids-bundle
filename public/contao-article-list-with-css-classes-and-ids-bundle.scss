@@ -7,7 +7,6 @@
     float: right;
     position: relative;
     bottom: 3px;
-    min-width: 80%;
     .classes, .ids { display: flex; flex-wrap: wrap; }
     .ids span {
         color: #edad3b; 
@@ -25,6 +24,7 @@
         margin-left: 7px;
     }
 }
+.content_id_classes { min-width: 80%; }
 .tl_content .limit_height {
     .content_id_classes {
         margin-right: 200px;
