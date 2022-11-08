@@ -25,6 +25,15 @@ document.addEventListener( 'DOMContentLoaded', function () {
         'ce_text'
         'ce_image',
         'content-text',
+        'widget',
+        'widget-radio',
+        'mandatory',
+        'widget-text',
+        'widget-select',
+        'widget-checkbox',
+        'widget-range',
+        'widget-captcha',
+        'widget-submit',
         'ivp'
     ]
     if (document.querySelector('.limit_height')) {
