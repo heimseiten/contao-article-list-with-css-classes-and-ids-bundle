@@ -2,10 +2,8 @@
     "name": "heimseiten/contao-article-list-with-css-classes-and-ids-bundle",
     "description": "Fügt die vergebenen CSS Klassen und IDs hübsch in die Artikelliste ein.",
     "keywords": [
-        "contao",
-        "bundle",
-        "tag 3",
-        "tag 4"
+        "Backend",
+        "usability"
     ],
     "type": "contao-bundle",
     "license": "GPL-3.0-or-later",
