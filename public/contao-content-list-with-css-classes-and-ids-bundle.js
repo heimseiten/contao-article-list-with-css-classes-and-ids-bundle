@@ -36,7 +36,9 @@ document.addEventListener( 'DOMContentLoaded', function () {
         'widget-submit',
         'ivp',
         'explanation',
-        'widget-explanation'
+        'widget-explanation',
+        'widget-textarea',
+        'select'
     ]
     if (document.querySelector('.limit_height')) {
         document.querySelectorAll('.limit_height > *').forEach(e => {
