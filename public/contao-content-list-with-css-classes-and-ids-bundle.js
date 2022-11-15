@@ -34,7 +34,9 @@ document.addEventListener( 'DOMContentLoaded', function () {
         'widget-range',
         'widget-captcha',
         'widget-submit',
-        'ivp'
+        'ivp',
+        'explanation',
+        'widget-explanation'
     ]
     if (document.querySelector('.limit_height')) {
         document.querySelectorAll('.limit_height > *').forEach(e => {
