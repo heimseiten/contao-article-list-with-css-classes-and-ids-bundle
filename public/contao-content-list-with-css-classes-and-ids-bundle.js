@@ -39,7 +39,8 @@ document.addEventListener( 'DOMContentLoaded', function () {
         'widget-explanation',
         'widget-textarea',
         'select',
-        'widget-upload'
+        'widget-upload',
+        'content-youtube'
     ]
     if (document.querySelector('.limit_height')) {
         document.querySelectorAll('.limit_height > *').forEach(e => {
