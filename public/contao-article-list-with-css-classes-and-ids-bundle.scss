@@ -1,5 +1,6 @@
+.article_id_classes { display: none; }
 .content_id_classes,
-.article_id_classes { 
+.article_id_classes_view { 
     display: flex; 
     flex-wrap: wrap; 
     flex-grow: 1;
@@ -30,7 +31,7 @@
     }
 }
 body .tl_listing .tl_left { display: flex; }
-body.dark_mode_bundle:not(.dark_mode_off) .tl_listing .tl_left .article_id_classes,
+body.dark_mode_bundle:not(.dark_mode_off) .tl_listing .tl_left .article_id_classes_view,
 body.dark_mode_bundle:not(.dark_mode_off) .content_id_classes {
     .ids span {
         color: #edad3b; 
