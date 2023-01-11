@@ -15,7 +15,7 @@
     }
     span { 
         color: #666; 
-        border: 1px solid #999; 
+        border: 1px solid var(--border, #999); 
         border-radius: 20px; 
         line-height: 1; 
         display: inline-block; 
