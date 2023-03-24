@@ -32,7 +32,7 @@
         margin-right: 200px;
     }
 }
-body .tl_listing .tl_left { display: flex; }
+body .tl_listing .tl_left { display: flex; flex-wrap: wrap; }
 body.dark_mode_bundle:not(.dark_mode_off) .tl_listing .tl_left .article_id_classes_view,
 body.dark_mode_bundle:not(.dark_mode_off) .content_id_classes {
     .ids span {
