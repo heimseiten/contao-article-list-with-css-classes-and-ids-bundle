@@ -41,7 +41,9 @@ document.addEventListener( 'DOMContentLoaded', function () {
         'select',
         'widget-upload',
         'content-youtube',
-        'parallax'
+        'parallax',
+        'ce_rsce_cube',
+        'ce_text_cube'
     ]
     if (document.querySelector('.limit_height')) {
         document.querySelectorAll('.limit_height > *').forEach(e => {
