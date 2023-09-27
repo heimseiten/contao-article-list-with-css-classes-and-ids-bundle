@@ -20,8 +20,7 @@
         "source": "https://github.com/heimseiten/contao-article-list-with-css-classes-and-ids-bundle"
     },
     "require": {
-        "php": "^7.4 || ^8.0",
-        "contao/core-bundle": "^4.13 || ^5.0"
+        "contao/core-bundle": "^5.2"
     },
     "require-dev": {
         "contao/manager-plugin": "^2.3.1",
