@@ -3,6 +3,9 @@ Diese Erweiterung wird nicht weiterentwickelt.
 Um die Funktionalitäten zu nutzen, siehe:
 https://github.com/ArturJo/contao-backend-labels-bundle
 
+Eventuell werden die Funktionalitäten später in die folgende Erweiterung integriert:
+https://github.com/heimseiten/contao-custom-backend-settings-bundle
+
 # Welcome to Article list with css classes and ids
 This bundle is still under construction.
 
