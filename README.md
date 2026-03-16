@@ -1,3 +1,8 @@
+Diese Erweiterung wird nicht weiterentwickelt.
+
+Um die Funktionalitäten zu nutzen, siehe:
+https://github.com/ArturJo/contao-backend-labels-bundle
+
 # Welcome to Article list with css classes and ids
 This bundle is still under construction.
 
